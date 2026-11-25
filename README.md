@@ -49,8 +49,8 @@ Display all edge-detected images for comparison.
 
 ## Developed By
 
-## Name: ## Mukesh B
-## Register No: ## 212223230128
+## Name: Mukesh B
+## Register No: 212223230128
 ```
 
 import cv2
