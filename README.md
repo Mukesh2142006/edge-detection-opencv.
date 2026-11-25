@@ -49,8 +49,8 @@ Display all edge-detected images for comparison.
 
 ## Developed By
 
-- **Name:** Janani S
-- **Register No:** 212224230103
+## Name: ## Mukesh B
+## Register No: ## 212223230128
 ```
 
 import cv2
